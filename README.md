@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Next-JS-Mongoose---Blog-project
+Next.js &amp; Mongoose Blog App: A dynamic blog application featuring a home page, blog listing, contact form, and dynamic blog pages. Built with Next.js for server-side rendering and dynamic routes, and Mongoose for seamless MongoDB integration. Ensures fast performance, SEO optimization, and efficient content management.
+>>>>>>> 299a52b1a18bcf39e7b44521f8f1fb18c2d4c182
